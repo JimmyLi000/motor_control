@@ -1,2 +1,2 @@
 # motor_control
-gas+ai2(Arduino)
+gas+ app inventor2 +Arduino
